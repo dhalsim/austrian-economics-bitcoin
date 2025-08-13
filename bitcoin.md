@@ -3,9 +3,9 @@
 ### Why there’s a connection
 
 - **Hard money ethos**: AET emphasizes sound money and the problems of discretionary inflation. Bitcoin’s fixed supply (21M), halving schedule, and decentralized issuance align with AET’s skepticism of elastic money and central banking.
-- **Rules over discretion**: Hayek’s knowledge problem and Mises’s calculation critique imply monetary rules are superior to policy discretion. Bitcoin embeds a transparent rule (difficulty adjustment + fixed issuance) rather than discretionary committees.
+- **Rules over discretion**: Hayek’s [knowledge problem](./terms.md#knowledge-problem-dispersed-knowledge) and Mises’s [calculation critique](./terms.md#economic-calculation-calculation-problemcritique) imply monetary rules are superior to policy discretion. Bitcoin embeds a transparent rule (difficulty adjustment + fixed issuance) rather than discretionary committees.
 - **Cantillon effects**: AET highlights that new money is non-neutral; early recipients benefit at others’ expense. Bitcoiners see this as a critique of QE/credit facilities; Bitcoin offers an asset outside these injection channels. See [Cantillon Effect](./terms.md#cantillon-effect), [Circulation Analysis](./terms.md#circulation-analysis-money-and-relative-prices).
-- **Time preference and saving**: With credible scarcity, holders may lower time preference, save more, and lengthen planning horizons—an AET theme linking money, interest, and capital formation.
+- **Time preference and saving**: With credible scarcity, holders may lower [time preference](./terms.md#time-preference-and-roundaboutness), save more, and lengthen planning horizons—an AET theme linking money, interest, and capital formation.
 - **Market competition in currencies**: Hayek favored currency competition; free-banking Austrians analyze non-monopoly monetary systems. Bitcoin is a live experiment in competing monies. See [Free Banking](./terms.md#free-banking).
 - **ABCT relevance**: AET’s Austrian Business Cycle Theory critiques credit-driven booms from suppressed interest rates. Bitcoin does not eliminate credit cycles, but a hard monetary base is viewed as disciplining credit and pricing risk. See `terms.md` → ABCT, Malinvestment.
 
@@ -45,5 +45,37 @@
 - White & Selgin, works on free banking
 - Selgin, Less Than Zero (benign deflation debate)
 - Satoshi Nakamoto, Bitcoin whitepaper
+
+
+### Crisis backstory: 2008 and Satoshi’s signal
+
+- Housing/mortgage bubble: years of low policy rates, lax underwriting, securitization/mispriced AAA risk, maturity mismatch in shadow banking, and implicit backstops encouraged leverage and housing malinvestment. See [ABCT](./terms.md#austrian-business-cycle-theory-abct).
+- Bust and bailouts: when short-term funding froze, authorities backstopped banks and dealers (TARP, guarantees, QE). Relative prices and risk premia were repressed; losses socialized, gains privatized (moral hazard).
+- Satoshi’s embedded headline in the genesis block highlighted this regime:
+
+```
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+```
+
+- Household outcomes: foreclosures and unemployment hit families, while asset purchases supported financial balance sheets. Asset prices recovered faster than wages/incomes, widening wealth dispersion. See [Cantillon Effect](./terms.md#cantillon-effect).
+
+### 2020–2021 pandemic response and inflation
+
+- Policy mix: massive QE plus large fiscal transfers and income supports; lockdown mandates and supply chain frictions constrained output. Bank reserves surged; deposits and spending rose via transfers.
+- “Transitory” to persistent: initial official guidance emphasized temporary effects; inflation broadened as demand ran ahead of constrained supply, and relative prices shifted. Later narratives stressed supply chains, but monetary/fiscal impulse amplified demand. See [Relative Prices](./terms.md#relative-prices) and [Circulation Analysis](./terms.md#circulation-analysis-money-and-relative-prices).
+- Distribution: injection paths mattered—recipients of early transfers and asset holders benefited first; renters and late wage earners lagged. See [Cantillon Effect](./terms.md#cantillon-effect).
+
+### Policy trade-offs: QE, LOLR, bailouts (AET view)
+
+- Lend freely at a penalty rate on good collateral (LOLR) can quell liquidity panics with less distortion than open-ended QE or equity bailouts.
+- Broad QE suppresses yields and distorts relative prices; long programs risk malinvestment and “zombies.”
+- Direct bailouts recapitalize quickly but maximize moral hazard.
+
+### Why Bitcoin matters in these episodes
+
+- Rule-bound money: fixed issuance avoids discretion in base-money growth, reducing policy-driven redistribution via [Cantillon effects](./terms.md#cantillon-effect).
+- Calculation and credibility: predictable supply aids long-horizon planning; avoids attempts to “fine-tune” money that run into the [knowledge problem](./terms.md#knowledge-problem-dispersed-knowledge) and [calculation critique](./terms.md#economic-calculation-calculation-problemcritique).
+- Exit option and competition: offers a competing monetary standard outside central-bank balance sheets, disciplining policy by providing a credible alternative.
+- Not a panacea: credit cycles can still occur on top of a hard base; institutions and maturity structure still matter. See [ABCT](./terms.md#austrian-business-cycle-theory-abct).
 
 
